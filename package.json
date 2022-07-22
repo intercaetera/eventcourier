@@ -1,7 +1,7 @@
 {
   "name": "eventcourier",
   "version": "1.0.0",
-  "description": "A very basic example of an event-sourced/dropdb architecture in JS",
+  "description": "A very basic example of a event-based no-db architecture in JS",
   "main": "index.js",
   "type": "module",
   "scripts": {
